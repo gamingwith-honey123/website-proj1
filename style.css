@@ -1,0 +1,53 @@
+h1{
+    color: lightyellow;
+    font-style: italic;
+    font-size: 100;
+    font-weight: 700;
+    font-variant: unset;
+    font-family:  monospace;
+    padding-right: 0pc;
+    
+}
+p{
+    font-weight: 50;
+    font-style: oblique;
+}
+h2{
+    color: lightcyan;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+h4{
+    font-size: 3pc;
+    font-style: unset;
+    color: lavender;
+    font-family: fantasy;
+    font-stretch: wider;
+    font-weight: 500;
+    text-decoration-line: overline;
+    
+}
+ 
+h5{
+    font-size: 4pc;
+    color: white;
+    font-family:cursive;
+    text-decoration-line: underline;
+    text-align: center;
+    background-image: url(para.png);
+}
+
+.header{
+    
+     display: flex;
+     justify-content: space-between;
+     align-content:unset;
+}
+body{
+    background-image: url("dark.png");
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+}
